@@ -18,9 +18,10 @@ p
     font-size: 20px;
 }
 
-p#pierwszy, .loren, a
+p#pierwszy + a
 {
     font-weight: bold;
+    color: aliceblue;
 }
 
 div#elementy_potomne p
