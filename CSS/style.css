@@ -13,15 +13,16 @@ p
     background-color: fuchsia;
     color: yellow;
 }
-.loren
+.loren ~ a
 {
     font-size: 20px;
+    background-color: lawngreen;
 }
-
+1
 p#pierwszy + a
 {
     font-weight: bold;
-    color: aliceblue;
+    color:aqua;
 }
 
 div#elementy_potomne p
