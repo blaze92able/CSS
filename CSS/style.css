@@ -17,3 +17,8 @@ p
 {
     font-size: 20px;
 }
+
+p#pierwszy, a
+{
+    font-weight: bold;
+}
