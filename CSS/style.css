@@ -18,7 +18,12 @@ p
     font-size: 20px;
 }
 
-p#pierwszy, a
+p#pierwszy, .loren, a
 {
     font-weight: bold;
+}
+
+div#elementy_potomne p
+{
+    background-color: darkcyan;
 }
