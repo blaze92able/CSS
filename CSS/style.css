@@ -29,3 +29,14 @@ div#elementy_potomne p
 {
     background-color: darkcyan;
 }
+
+div#elementy_potomne > p:not(.last)
+{
+    color: dodgerblue;
+}
+
+
+div#elementy_potomne > p:nth-child(2)
+{
+    color: hotpink;
+}
